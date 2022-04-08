@@ -1,0 +1,23 @@
+.project{
+    width: 250px;
+    background:#282c34 ;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height:200px;
+    background: #7a7978 url("https://i.pinimg.com/originals/27/88/6d/27886d29cc464b21e6eb26692522c119.jpg")
+    center ;
+}
+
+.description {
+    color: #878E99;
+    font: 16px Nunito, monospac;
+}

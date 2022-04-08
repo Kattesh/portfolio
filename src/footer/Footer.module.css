@@ -1,0 +1,33 @@
+.footerBlock {
+    height: 100vh;
+    background: #efcc6b;
+}
+
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 50px;
+}
+
+.footer {
+    border: 1px solid;
+    width: 280px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.title {
+    background: #282c34;
+    color: white;
+    font: 45px Nunito, sans-serif;
+}
+
+.icons {
+    height: 60px;
+    width: 60px;
+    background: #7a7978;
+
+}

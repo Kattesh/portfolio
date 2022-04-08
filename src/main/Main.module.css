@@ -1,0 +1,18 @@
+.mainBlock {
+   min-height: 100vh;
+    background: wheat;
+}
+
+.greeting {
+    width: 400px;
+    color: white;
+    font: 20px Nunito, serif;
+    background: #282c34;
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background: #282c34;
+
+}

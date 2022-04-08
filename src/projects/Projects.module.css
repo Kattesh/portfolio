@@ -1,0 +1,23 @@
+.projectsBlock {
+   min-height: 100vh;
+    background: #efcc6b;
+}
+
+.skillsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+    background: #282c34;
+    color: white;
+    font: 45px Nunito, sans-serif;
+}
+
+.skills {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

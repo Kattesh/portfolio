@@ -1,0 +1,12 @@
+.nav {
+    border: 1px solid ;
+    width: 450px;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Nunito, monospac, sans-serif;
+    outline-color: rgb(220, 150, 90);
+    text-transform: uppercase;
+
+}
